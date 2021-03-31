@@ -1,0 +1,7 @@
+settings.py
+med_env/
+credentials.json
+quickstart.py
+test.py
+token.json
+__pycache__/
